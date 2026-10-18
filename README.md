@@ -6,7 +6,7 @@ Camera-based vehicle-presence detection — lane-level ROIs as virtual inductive
 
 > This page is the project's showcase. The production source code is proprietary to Anamis Electronic Vira.
 
-**Anamis Electronic Vira (GambroTech)** · Computer Vision (Working Student) · 09/2020 — 09/2022
+**Anamis Electronic Vira (GambroTech)** · Working Student – Computer Vision & Embedded Vision · 09/2020 — 09/2022
 
 One camera per approach watches the lanes behind the stop line. Classical computer vision turns each lane into a virtual inductive loop and sends a 0/1 presence signal per lane over RS-485 to the intersection controller, which sizes each green from it. Piloted in 2021 at 3 intersections in Bandar Abbas with 12 cameras; my part was the detection module.
 
